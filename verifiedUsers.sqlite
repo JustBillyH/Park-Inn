@@ -1,0 +1,3 @@
+SQLite format 3@  .X
+��^''}tableverifiedUsersverifiedUsersCREATE TABLE verifiedUsers (discID TEXT, rblxID INTEGER)
+

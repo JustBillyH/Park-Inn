@@ -1,2 +1,0 @@
-# Park-Inn
-Glitch Heroku
